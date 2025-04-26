@@ -5,21 +5,6 @@ The **Online Brand Store** is a modern e-commerce platform designed to provide a
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
----
-
-## 📑 Table of Contents
-
-- [Overview](##overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [References](#references)
-
----
-
 ## 📋 Overview
 
 The Online Brand Store enables customers to browse products, add items to their cart, place orders, and make secure payments. Admins can manage product listings, inventory, orders, and promotions through an intuitive dashboard.  
