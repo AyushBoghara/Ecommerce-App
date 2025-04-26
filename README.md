@@ -62,7 +62,7 @@ The platform supports real-time data synchronization, secure transactions, and c
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/username/online-brand-store.git
+    git clone https://github.com/AyushBoghara/Ecommerce-App.git
     cd online-brand-store
     ```
 
