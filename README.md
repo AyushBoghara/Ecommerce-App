@@ -9,7 +9,7 @@ The **Online Brand Store** is a modern e-commerce platform designed to provide a
 
 ## 📑 Table of Contents
 
-- [Overview](#overview)
+- [Overview](##overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
@@ -113,30 +113,6 @@ The platform supports real-time data synchronization, secure transactions, and c
   Modify the codebase using Android Studio or VS Code, and test on emulators or physical devices.
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome! 🚀 Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-    ```bash
-    git checkout -b feature-name
-    ```
-3. Commit your changes:
-    ```bash
-    git commit -m 'Add feature'
-    ```
-4. Push to the branch:
-    ```bash
-    git push origin feature-name
-    ```
-5. Open a pull request.
-
-📄 Please read the `CONTRIBUTING.md` for detailed contribution guidelines.
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License**.
