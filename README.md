@@ -1,4 +1,3 @@
-![Online Brand Store](https://via.placeholder.com/1200x400.png?text=Online+Brand+Store)
 
 # Online Brand Store
 
